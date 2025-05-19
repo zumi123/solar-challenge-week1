@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Each country has its own EDA notebook under `notebooks/`.
 
